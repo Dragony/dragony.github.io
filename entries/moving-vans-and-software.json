@@ -1,0 +1,147 @@
+{
+    "decodedJson": {
+        "time": 1785335669230,
+        "blocks": [
+            {
+                "id": "UJUOLm78wQ",
+                "type": "header",
+                "data": {
+                    "text": "Moving vans and Software",
+                    "level": 2
+                }
+            },
+            {
+                "id": "A03mkezUce",
+                "type": "header",
+                "data": {
+                    "text": "Chapter 1: Joining a team",
+                    "level": 2
+                }
+            },
+            {
+                "id": "hg72bRGfjV",
+                "type": "paragraph",
+                "data": {
+                    "text": "Imagine you just started your new job at Moving Company Ltd, a company that helps its customers move all their possesions between appartments. During the hiring process you were grilled about how you go about moving appartments and were ultimatly hired because the company is looking forward to working with an experienced expert, opposed to just hiring additional muscle."
+                }
+            },
+            {
+                "id": "3F9tfRicQQ",
+                "type": "paragraph",
+                "data": {
+                    "text": "So it's your first day, you show up at the first appartment ready for action. Your teammate is already there, tells you to grab a box and start moving. \"Where is the moving van?\" you ask, because you want to know where to move the inventory to. \"We don't have one, just carry everything to the new address\", is the answer you get."
+                }
+            },
+            {
+                "id": "7kafcLrucB",
+                "type": "paragraph",
+                "data": {
+                    "text": "\"OK, that's a little strange\", you think. But the address is nearby, so it's not a big deal. Maybe there is a strange situation with traffic or one way streets that makes driving there impractical."
+                }
+            },
+            {
+                "id": "gDDhrB_CLq",
+                "type": "paragraph",
+                "data": {
+                    "text": "The first week passes by and for each and every move you're assigned to it's the same story: No moving van in sight. You're a little startled someone would run a moving company like this. But you're also happy to help and share your experience, so you bring up the topic with your supervisor."
+                }
+            },
+            {
+                "id": "8ko8ByxYUi",
+                "type": "paragraph",
+                "data": {
+                    "text": "Contratry to your expectation, your suggestion is not met with excitement or even curiosity. You're told \"Let's give this some time. You've only been here one week. We've been doing this for years and we've never needed a truck. Maybe you just don't understand the whole picture yet.\""
+                }
+            },
+            {
+                "id": "kNKWxJeTn6",
+                "type": "header",
+                "data": {
+                    "text": "Chapter 2: The discussion",
+                    "level": 2
+                }
+            },
+            {
+                "id": "1MUOgCf30b",
+                "type": "paragraph",
+                "data": {
+                    "text": "What might be going on in your head:"
+                }
+            },
+            {
+                "id": "0_-m1Hteve",
+                "type": "list",
+                "data": {
+                    "style": "unordered",
+                    "items": [
+                        "To you it's clear as day that using a van will be faster and less taxing on the movers.",
+                        "You've been using a van all your proffessional life, so you'd have to relearn how to work without it.",
+                        "The next moving company most likley will be using a van, so you want to stay uptodate."
+                    ]
+                }
+            },
+            {
+                "id": "aQiSzfTy6l",
+                "type": "paragraph",
+                "data": {
+                    "text": "So what might be going on in your bosses head:"
+                }
+            },
+            {
+                "id": "JBRg0-Vl6T",
+                "type": "list",
+                "data": {
+                    "style": "unordered",
+                    "items": [
+                        "Everyone already working there knows how to work without a van.",
+                        "Buying a van will cost money.",
+                        "Giving the employees time to learn how to work with the van will cost time.",
+                        "The company has been operating just fine until now without one.",
+                        "We can change this, because you want it. But then we have to be sure you will stay and own it."
+                    ]
+                }
+            },
+            {
+                "id": "TXO-Aq-eAn",
+                "type": "paragraph",
+                "data": {
+                    "text": "Your boss can only see downsides to using a van, since business is already booming."
+                }
+            },
+            {
+                "id": "8aTCVEr37H",
+                "type": "header",
+                "data": {
+                    "text": "Chapter 3: How this applies to software",
+                    "level": 2
+                }
+            },
+            {
+                "id": "flbUfcBWkk",
+                "type": "paragraph",
+                "data": {
+                    "text": "Replace the moving van with something like automated testing &amp; deployment, code reviews, code versioning- and ticketing systems. The same situation as above often applies. These are tools that can greatly improve your efficiency and output, but have a learning curve. The business (or existing software devs) ask the question: Why invest in these things when we're doing fine without them?"
+                }
+            },
+            {
+                "id": "dRLEGxmWYS",
+                "type": "paragraph",
+                "data": {
+                    "text": "As is often the case, both sides of the argument have merrit."
+                }
+            }
+        ],
+        "version": "2.31.6"
+    },
+    "oldSlug": "moving-vans-and-software",
+    "title": "Moving vans and Software",
+    "content": "{\"time\":1785335669230,\"blocks\":[{\"id\":\"UJUOLm78wQ\",\"type\":\"header\",\"data\":{\"text\":\"Moving vans and Software\",\"level\":2}},{\"id\":\"A03mkezUce\",\"type\":\"header\",\"data\":{\"text\":\"Chapter 1: Joining a team\",\"level\":2}},{\"id\":\"hg72bRGfjV\",\"type\":\"paragraph\",\"data\":{\"text\":\"Imagine you just started your new job at Moving Company Ltd, a company that helps its customers move all their possesions between appartments. During the hiring process you were grilled about how you go about moving appartments and were ultimatly hired because the company is looking forward to working with an experienced expert, opposed to just hiring additional muscle.\"}},{\"id\":\"3F9tfRicQQ\",\"type\":\"paragraph\",\"data\":{\"text\":\"So it's your first day, you show up at the first appartment ready for action. Your teammate is already there, tells you to grab a box and start moving. \\\"Where is the moving van?\\\" you ask, because you want to know where to move the inventory to. \\\"We don't have one, just carry everything to the new address\\\", is the answer you get.\"}},{\"id\":\"7kafcLrucB\",\"type\":\"paragraph\",\"data\":{\"text\":\"\\\"OK, that's a little strange\\\", you think. But the address is nearby, so it's not a big deal. Maybe there is a strange situation with traffic or one way streets that makes driving there impractical.\"}},{\"id\":\"gDDhrB_CLq\",\"type\":\"paragraph\",\"data\":{\"text\":\"The first week passes by and for each and every move you're assigned to it's the same story: No moving van in sight. You're a little startled someone would run a moving company like this. But you're also happy to help and share your experience, so you bring up the topic with your supervisor.\"}},{\"id\":\"8ko8ByxYUi\",\"type\":\"paragraph\",\"data\":{\"text\":\"Contratry to your expectation, your suggestion is not met with excitement or even curiosity. You're told \\\"Let's give this some time. You've only been here one week. We've been doing this for years and we've never needed a truck. Maybe you just don't understand the whole picture yet.\\\"\"}},{\"id\":\"kNKWxJeTn6\",\"type\":\"header\",\"data\":{\"text\":\"Chapter 2: The discussion\",\"level\":2}},{\"id\":\"1MUOgCf30b\",\"type\":\"paragraph\",\"data\":{\"text\":\"What might be going on in your head:\"}},{\"id\":\"0_-m1Hteve\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"To you it's clear as day that using a van will be faster and less taxing on the movers.\",\"You've been using a van all your proffessional life, so you'd have to relearn how to work without it.\",\"The next moving company most likley will be using a van, so you want to stay uptodate.\"]}},{\"id\":\"aQiSzfTy6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"So what might be going on in your bosses head:\"}},{\"id\":\"JBRg0-Vl6T\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Everyone already working there knows how to work without a van.\",\"Buying a van will cost money.\",\"Giving the employees time to learn how to work with the van will cost time.\",\"The company has been operating just fine until now without one.\",\"We can change this, because you want it. But then we have to be sure you will stay and own it.\"]}},{\"id\":\"TXO-Aq-eAn\",\"type\":\"paragraph\",\"data\":{\"text\":\"Your boss can only see downsides to using a van, since business is already booming.\"}},{\"id\":\"8aTCVEr37H\",\"type\":\"header\",\"data\":{\"text\":\"Chapter 3: How this applies to software\",\"level\":2}},{\"id\":\"flbUfcBWkk\",\"type\":\"paragraph\",\"data\":{\"text\":\"Replace the moving van with something like automated testing &amp; deployment, code reviews, code versioning- and ticketing systems. The same situation as above often applies. These are tools that can greatly improve your efficiency and output, but have a learning curve. The business (or existing software devs) ask the question: Why invest in these things when we're doing fine without them?\"}},{\"id\":\"dRLEGxmWYS\",\"type\":\"paragraph\",\"data\":{\"text\":\"As is often the case, both sides of the argument have merrit.\"}}],\"version\":\"2.31.6\"}",
+    "url": null,
+    "createdAt": "2021-08-15T12:49:00+00:00",
+    "slug": "moving-vans-and-software",
+    "popular": false,
+    "archive": true,
+    "tags": [
+        2
+    ]
+}

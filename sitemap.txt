@@ -1,12 +1,10 @@
 https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-flutter-app.html
 https://ma.ttias.ch/fulfilling-my-childhood-dream-to-build-a-browser-game.html
 https://ma.ttias.ch/how-to-setup-valid-ssl-on-wsl.html
-https://ma.ttias.ch/the-most-requested-features-for-online-food-delivery.html
 https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-shopify-app.html
 https://ma.ttias.ch/how-top-performers-can-be-a-curse-for-agencies.html
-https://ma.ttias.ch/why-requirements-are-hard.html
 https://ma.ttias.ch/operating-an-agency/
-https://ma.ttias.ch/the-basics-of-running-an-agency.html
 https://ma.ttias.ch/
+https://ma.ttias.ch/blog
 https://ma.ttias.ch/about.html
 https://ma.ttias.ch/services.html
