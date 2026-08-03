@@ -21,10 +21,10 @@
     <body>
         <header>
             <div class="links">
-                <a href="/"><span>≫</span> Home</a>
+                <button type="button" class="menu-toggle" aria-expanded="false" aria-label="Toggle menu">☰</button>
+                <a href="/"><span>▶</span> Coaching</a>
                 <a href="/blog" class="name"><span>▶</span> Blog</a>
                 <a href="/about.html" class="name"><span>▶</span> About me</a>
-                <a href="/services.html" class="name"><span>▶</span> Work with me</a>
             </div>
             <div class="preview">
 
@@ -137,6 +137,16 @@
     </footer>
         </main>
                 <script>
+            var menuToggle = document.querySelector('.menu-toggle');
+            var navLinks = document.querySelector('header .links');
+            if (menuToggle) {
+                menuToggle.addEventListener('click', function () {
+                    var isOpen = navLinks.classList.toggle('open');
+                    menuToggle.setAttribute('aria-expanded', isOpen);
+                });
+            }
+        </script>
+        <script>
             function loadEmbed(el) {
                 let iframe = document.createElement('iframe');
                 iframe.src = el.dataset.embed;
