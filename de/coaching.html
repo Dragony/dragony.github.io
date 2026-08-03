@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="UTF-8">
+        <title>Produktivitäts-Coaching</title>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="canonical" href="https://ma.ttias.ch/de/coaching.html">
+                    <link rel="stylesheet" href="/build/app.css">
+                            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-8PKFYZ4V14"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-8PKFYZ4V14');
+            </script>
+            </head>
+    <body>
+        <header>
+            <div class="links">
+                <button type="button" class="menu-toggle" aria-expanded="false" aria-label="Toggle menu">☰</button>
+                <a href="/"><span>▶</span> Coaching</a>
+                <a href="/blog" class="name"><span>▶</span> Blog</a>
+                <a href="/about.html" class="name"><span>▶</span> About me</a>
+            </div>
+            <div class="preview">
+
+            </div>
+        </header>
+        <main class="wrapper">
+                <div class="">
+        <h1>Produktivitäts-Coaching</h1>
+    </div>
+    <p>
+        Ich helfe Einzelpersonen und Teams dabei, alte Gewohnheiten abzulegen, damit sie
+        bessere Ergebnisse erzielen und schneller Entscheidungen treffen können. Meine besondere Stärke liegt
+        darin, komplexe Themen verständlich und umsetzbar zu machen.
+    </p>
+    <blockquote>
+        <span>Was ich coache</span>
+        <ul>
+            <li>Alte Gewohnheiten ablegen</li>
+            <li>Sich auf die richtigen Ergebnisse konzentrieren</li>
+            <li>Schneller Entscheidungen treffen</li>
+        </ul>
+    </blockquote>
+    <blockquote>
+        <span>Meine Werte</span>
+        <ul>
+            <li>Unübersichtliche, abstrakte Probleme in <mark>einfache</mark> und verständliche Modelle verwandeln, nach denen man handeln kann</li>
+            <li>Systemisches Denken: über das Offensichtliche hinaus die <mark>Anreize</mark> erkennen, die wirklich dahinterstecken</li>
+            <li><mark>Ehrlichkeit</mark> im Umgang mit Fehlern, auch meinen eigenen. Ich behandle das, was nicht funktioniert hat, als Erkenntnis und nicht als etwas, das man verstecken muss</li>
+            <li><mark>Beweise</mark> statt Meinung, geprägt von echten Erfahrungen statt Theorie</li>
+            <li>Ich nehme ein <mark>nachhaltiges</mark> Tempo ernst, nicht einfach nur „mehr arbeiten"</li>
+        </ul>
+    </blockquote>
+    <p>
+        Wenn das genau das ist, was Sie brauchen, ist der einfachste nächste Schritt, direkt einen Termin zu buchen:
+    </p>
+    <div class="cta">
+        <a class="cta-button" href="https://calendar.app.google/kCejdS54SjsRK2Qy7" target="_blank">
+            Lernen wir uns kennen <span class="arrow">&rarr;</span>
+        </a>
+    </div>
+        </main>
+                <script>
+            var menuToggle = document.querySelector('.menu-toggle');
+            var navLinks = document.querySelector('header .links');
+            if (menuToggle) {
+                menuToggle.addEventListener('click', function () {
+                    var isOpen = navLinks.classList.toggle('open');
+                    menuToggle.setAttribute('aria-expanded', isOpen);
+                });
+            }
+        </script>
+        <script>
+            function loadEmbed(el) {
+                let iframe = document.createElement('iframe');
+                iframe.src = el.dataset.embed;
+                iframe.frameBorder = "0";
+                iframe.allowFullscreen = "";
+                el.parentNode.replaceChild(iframe, el);
+            }
+            document.querySelectorAll('.embed-container button').forEach(function(el){
+                el.addEventListener('click', loadEmbed.bind(this, el));
+            });
+        </script>
+    </body>
+</html>
