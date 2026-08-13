@@ -35,14 +35,17 @@
             </div>
         </header>
         <main class="wrapper">
-                <div class="">
-        <h1>Productivity Coaching</h1>
+                <div class="intro">
+        <div class="intro-text">
+            <h1>Productivity Coaching</h1>
+            <p>
+                I help individuals and teams break out of old habits that are holding them back, so they can
+                get better outcomes and make decisions faster. My particular strength is being able to make
+                complex topics understandable and actionable.
+            </p>
+        </div>
+        <img class="profile-photo" src="/images/2026_profile_full_square.jpg" alt="me">
     </div>
-    <p>
-        I help individuals and teams break out of old habits that are holding them back, so they can
-        get better outcomes and make decisions faster. My particular strength is being able to make
-        complex topics understandable and actionable.
-    </p>
     <blockquote>
         <span>What I coach on</span>
         <ul>
@@ -70,23 +73,23 @@
         </a>
     </div>
         </main>
+                    <script>
+            (function () {
+                var locales = navigator.languages && navigator.languages.length
+                    ? navigator.languages
+                    : [navigator.language || navigator.userLanguage || ''];
+
+                var isSwissOrGerman = locales.some(function (locale) {
+                    locale = (locale || '').toLowerCase();
+                    return locale.indexOf('de') === 0 || locale.indexOf('-ch') !== -1 || locale.indexOf('_ch') !== -1;
+                });
+
+                if (isSwissOrGerman) {
+                    window.location.replace('/de/coaching.html');
+                }
+            })();
+        </script>
             <script>
-        (function () {
-            var locales = navigator.languages && navigator.languages.length
-                ? navigator.languages
-                : [navigator.language || navigator.userLanguage || ''];
-
-            var isSwissOrGerman = locales.some(function (locale) {
-                locale = (locale || '').toLowerCase();
-                return locale.indexOf('de') === 0 || locale.indexOf('-ch') !== -1 || locale.indexOf('_ch') !== -1;
-            });
-
-            if (isSwissOrGerman) {
-                window.location.replace('/de/coaching.html');
-            }
-        })();
-    </script>
-        <script>
             var menuToggle = document.querySelector('.menu-toggle');
             var navLinks = document.querySelector('header .links');
             if (menuToggle) {
