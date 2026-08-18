@@ -1,0 +1,108 @@
+{
+    "decodedJson": {
+        "time": 1786994338315,
+        "blocks": [
+            {
+                "id": "ev11X_rWac",
+                "type": "header",
+                "data": {
+                    "text": "Teaching Humans Collaboration",
+                    "level": 2
+                }
+            },
+            {
+                "id": "h4xwZyxeMr",
+                "type": "paragraph",
+                "data": {
+                    "text": "Suppose you join a Software company that has recently expanded from it's two founders to an eleven person team. Now the team is composed of ten people with decades of experience in the relevant customer industries, but no experience in how to build software. That one other person is you. You have been hired to enable these people to collaborate in a way that will move the needle from 1m revenue to 10m.&nbsp; Here is what I suggest you teach them:"
+                }
+            },
+            {
+                "id": "R0R1mfLtMK",
+                "type": "keyinsights",
+                "data": {
+                    "style": "unordered",
+                    "items": [
+                        "Shared goals",
+                        "Theory of constraints",
+                        "Information resolution",
+                        "psychological safety"
+                    ]
+                }
+            },
+            {
+                "id": "5Z9lxLEKy3",
+                "type": "header",
+                "data": {
+                    "text": "\n\nShared goals",
+                    "level": 2
+                }
+            },
+            {
+                "id": "syLj_U4HfA",
+                "type": "paragraph",
+                "data": {
+                    "text": "abc"
+                }
+            },
+            {
+                "id": "vI0AFNS5dV",
+                "type": "header",
+                "data": {
+                    "text": "Theory of constraints",
+                    "level": 2
+                }
+            },
+            {
+                "id": "c6NQCB5138",
+                "type": "paragraph",
+                "data": {
+                    "text": "Plane Experiment"
+                }
+            },
+            {
+                "id": "ezaTxyFd2t",
+                "type": "header",
+                "data": {
+                    "text": "\n\nInformation resolution",
+                    "level": 2
+                }
+            },
+            {
+                "id": "Qlfn_6HWtJ",
+                "type": "paragraph",
+                "data": {
+                    "text": "Sharing information"
+                }
+            },
+            {
+                "id": "7Mylnbe1lS",
+                "type": "header",
+                "data": {
+                    "text": "\n\npsychological safety",
+                    "level": 2
+                }
+            },
+            {
+                "id": "iSwfMmXLYS",
+                "type": "paragraph",
+                "data": {
+                    "text": "Practice and make it safe to share feedback\n\n"
+                }
+            }
+        ],
+        "version": "2.31.6"
+    },
+    "oldSlug": "teaching-humans-collaboration",
+    "title": "Teaching Humans Collaboration",
+    "content": "{\"time\":1786994338315,\"blocks\":[{\"id\":\"ev11X_rWac\",\"type\":\"header\",\"data\":{\"text\":\"Teaching Humans Collaboration\",\"level\":2}},{\"id\":\"h4xwZyxeMr\",\"type\":\"paragraph\",\"data\":{\"text\":\"Suppose you join a Software company that has recently expanded from it's two founders to an eleven person team. Now the team is composed of ten people with decades of experience in the relevant customer industries, but no experience in how to build software. That one other person is you. You have been hired to enable these people to collaborate in a way that will move the needle from 1m revenue to 10m.&nbsp; Here is what I suggest you teach them:\"}},{\"id\":\"R0R1mfLtMK\",\"type\":\"keyinsights\",\"data\":{\"style\":\"unordered\",\"items\":[\"Shared goals\",\"Theory of constraints\",\"Information resolution\",\"psychological safety\"]}},{\"id\":\"5Z9lxLEKy3\",\"type\":\"header\",\"data\":{\"text\":\"\\n\\nShared goals\",\"level\":2}},{\"id\":\"syLj_U4HfA\",\"type\":\"paragraph\",\"data\":{\"text\":\"abc\"}},{\"id\":\"vI0AFNS5dV\",\"type\":\"header\",\"data\":{\"text\":\"Theory of constraints\",\"level\":2}},{\"id\":\"c6NQCB5138\",\"type\":\"paragraph\",\"data\":{\"text\":\"Plane Experiment\"}},{\"id\":\"ezaTxyFd2t\",\"type\":\"header\",\"data\":{\"text\":\"\\n\\nInformation resolution\",\"level\":2}},{\"id\":\"Qlfn_6HWtJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Sharing information\"}},{\"id\":\"7Mylnbe1lS\",\"type\":\"header\",\"data\":{\"text\":\"\\n\\npsychological safety\",\"level\":2}},{\"id\":\"iSwfMmXLYS\",\"type\":\"paragraph\",\"data\":{\"text\":\"Practice and make it safe to share feedback\\n\\n\"}}],\"version\":\"2.31.6\"}",
+    "url": null,
+    "createdAt": "2026-08-17T18:33:00+00:00",
+    "slug": "teaching-humans-collaboration",
+    "popular": false,
+    "archive": false,
+    "tags": [
+        1,
+        3
+    ]
+}
